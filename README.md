@@ -1,1 +1,3 @@
-# 2017-si6-secondcall-exam
+# 2017 SI6 Second Call Node.js Exam
+
+Good luck! ;)
